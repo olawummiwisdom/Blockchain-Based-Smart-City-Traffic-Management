@@ -7,3 +7,5 @@ X
 (contracts/intersection-verification.clar,8/e/8e9dc7b4d49e63ca5b259fe449d2b2e394f6ce67
 S
 #contracts/performance-analysis.clar,a/e/ae0e5bb0cdc1dccb204f08fb083afe6be47f2913
+R
+"contracts/signal-optimization.clar,e/f/ef4f787527470660ddef1bb11d54912e2ce2b2d8
